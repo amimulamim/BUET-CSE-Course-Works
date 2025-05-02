@@ -27,7 +27,9 @@
 - [CSE 216 | Database Sessional Project](https://github.com/amimulamim/Ghora)
 
 ### Level 3 Term 1
-*To be added*
+- [CSE 306 | Computer Architecture Sessional](https://github.com/amimulamim/CSE-306-Computer-Architecture-Sessional)
+- [CSE 310| Compiler Sessional](https://github.com/amimulamim/CSE-310--Compiler-Sessional)
+- [CSE 316 | Microprocessors-Microcontrollers-and-Embedded-System Project](https://github.com/amimulamim/MUCU-Microcontroller-Project)
 
 ### Level 3 Term 2
 *To be added*
