@@ -34,8 +34,8 @@
 
 ### Level 3 Term 2
 -[CSE 314| Operating System Sessional](https://github.com/amimulamim/CSE-314--Operating-Systems-Sessional)
--[CSE 318| Artificial Intelligence Sessional]()
--[CSE 322 | Computer Networks Sessional]()
+-[CSE 318| Artificial Intelligence Sessional](https://github.com/amimulamim)
+-[CSE 322 | Computer Networks Sessional](https://github.com/amimulamim)
 -[CSE 326 | Information System Design Sessional](https://github.com/amimulamim/CSE-326-Information-System-Design)
 
 
