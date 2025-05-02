@@ -24,6 +24,7 @@
 
 ### Level 2 Term 2
 - [CSE 208 | Data Structures and Algorithms II Sessional](https://github.com/yourusername/CSE208-DSA2)
+- [CSE 216 | Database Sessional Project](https://github.com/amimulamim/Ghora)
 
 ### Level 3 Term 1
 *To be added*
@@ -36,6 +37,9 @@
 
 ### Level 4 Term 2
 *To be added*
+
+### miscellaneous
+'To be added'
 
 ---
 
