@@ -28,11 +28,16 @@
 
 ### Level 3 Term 1
 - [CSE 306 | Computer Architecture Sessional](https://github.com/amimulamim/CSE-306-Computer-Architecture-Sessional)
+- {CSE 308 | Software Engineering Sessional]()
 - [CSE 310| Compiler Sessional](https://github.com/amimulamim/CSE-310--Compiler-Sessional)
 - [CSE 316 | Microprocessors-Microcontrollers-and-Embedded-System Project](https://github.com/amimulamim/MUCU-Microcontroller-Project)
 
 ### Level 3 Term 2
-*To be added*
+-[CSE 314| Operating System Sessional](https://github.com/amimulamim/CSE-314--Operating-Systems-Sessional)
+-[CSE 318| Artificial Intelligence Sessional]()
+-[CSE 322 | Computer Networks Sessional]()
+-[CSE 326 | Information System Design Sessional](https://github.com/amimulamim/CSE-326-Information-System-Design)
+
 
 ### Level 4 Term 1
 *To be added*
