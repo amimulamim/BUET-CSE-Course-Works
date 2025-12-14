@@ -50,7 +50,11 @@
 
 
 ### Level 4 Term 2
-*To be added*
+- [CSE 412 | Simulation and Modeling Sessional](https://github.com/amimulamim/CSE-412-Simulation-Modeling)
+- [CSE 472 | Machine Learning Sessional](https://github.com/amimulamim/CSE-472-Machine-Learning)
+- [CSE 472 | Machine Learning Project](https://github.com/amimulamim/CSE-472-Project-Chemnet)
+
+
 
 ### miscellaneous
 'To be added'
